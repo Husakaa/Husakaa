@@ -1,6 +1,14 @@
+<div align="center">
+
 # Hugo Salas Calderón
 
 *Bioinformatics Engineering | Clinical Data Scientist & Automation Specialist*
+
+---
+
+</div>
+
+<div align="center">
 
 ## **Sobre mí**
 
@@ -11,6 +19,10 @@
 🤖 **Automatización & IA:** Aprendiendo a orquestar procesos empresariales y flujos de trabajo inteligentes utilizando **n8n** e Inteligencia Artificial Generativa.
 
 🎓 **Base Generalista:** Mi formación me permite adaptarme a cualquier desafío técnico, desde la optimización de bajo nivel (HPC) hasta el despliegue de soluciones web modernas.
+
+</div>
+
+<div align="center">
 
 ---
 
@@ -33,6 +45,10 @@
 
 ---
 
+</div>
+
+<div align="center">
+
 ### 📂 Proyectos Destacados
 
 | Proyecto | Dominio | Tecnologías |
@@ -43,14 +59,21 @@
 
 ---
 
+</div>
+
+<div align="center">
+
 ### 📈 GitHub Stats
 
 ![Estadísticas de Hugo](https://github-readme-stats.vercel.app/api?username=Husakaa&show_icons=true&theme=radical)
 
 ---
 
-### 📫 Conectemos
+</div>
 
+<div align="center">
+
+### 📫 Conectemos
 
 <a href="https://www.linkedin.com/in/hugo-salas-calderon/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Hugo Salas"/>
@@ -58,3 +81,5 @@
 <a href="mailto:hugosalascalderon@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
+</div>
