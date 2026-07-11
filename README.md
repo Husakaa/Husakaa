@@ -2,7 +2,7 @@
 
 # Hugo Salas Calderón
 
-**Bioinformatics Engineering | Clinical Data Science**
+**Bioinformatics Engineer | Clinical Data Science | NLP & Text Mining**
 
 ---
 
@@ -12,9 +12,9 @@
 
 ## Academic Profile
 
-Bioinformatics Engineering student with a holistic approach that bridges the gap between data science, software engineering, and medicine.
+Bioinformatics Engineering undergraduate with a holistic approach that bridges the gap between data science, software engineering, and medicine.
 
-My core focus lies in Natural Language Processing (NLP) and the architecture of Artificial Intelligence models specifically tailored for clinical environments. I am currently deepening my expertise in Clinical NLP and Small Language Models (SLMs) implementation to drive innovation in healthcare diagnostics and research.
+My core focus lies in Natural Language Processing and the architecture of Artificial Intelligence models specifically tailored for clinical environments. I am currently deepening my expertise in Clinical NLP and Small Language Models implementation to drive innovation in healthcare diagnostics and research.
 
 </div>
 
