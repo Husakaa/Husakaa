@@ -27,6 +27,7 @@ My core focus lies in Natural Language Processing and the architecture of Artifi
 | Project | Domain | Technologies |
 | :--- | :--- | :--- |
 | **[Smith-Waterman Acceleration](https://github.com/Husakaa/smith-waterman-acceleration)** | HPC & Algorithmic Optimization. Accelerated sequence alignment using parallel computing architectures. | `C`, `CUDA`, `OpenMP`, `Parallel Computing` |
+| **[RoBERTa SPACCC ETL](https://github.com/Husakaa/roberta-spaccc-etl)** | NLP & Data Engineering. Pipeline for ETL processing using a RoBERTa model on clinical text SPACCC corpus. | `Python`, `Transformers`, `ETL` |
 
 </div>
 
